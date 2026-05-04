@@ -1,6 +1,6 @@
-# Talking Ben
+# Talking BOAH
 
-[![github-pages](https://github.com/freak-games-studio/talking-ben/actions/workflows/gh-pages.yml/badge.svg?branch=master)](https://github.com/freak-games-studio/talking-ben/actions/workflows/gh-pages.yaml)
+[![github-pages](https://bob9999yt.github.io/talking-boah-2/actions/workflows/gh-pages.yml/badge.svg?branch=master)](https://bob9999yt.github.io/talking-boah-2/actions/workflows/gh-pages.yaml)
 
 > **Note**\
-> This is web application that uses the [SpeechRecognition](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition) API.
+> This is web application that uses the [SpeechRecognition](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition) API. so if you dont have it then haha
